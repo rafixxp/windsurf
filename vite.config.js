@@ -28,5 +28,4 @@ export default defineConfig({
       }
     })
   ],
-  base: '/windsurf/'
 })
