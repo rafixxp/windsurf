@@ -7,6 +7,7 @@
                     <span class="fs-21">Home</span>
                 </router-link>
             </div>
+            
             <div class="col text-center p-0">
                 <router-link to="/run" class="text-decoration-none text-dark">
                     <i class="fas fa-person-running fs-4"></i><br>
@@ -15,7 +16,7 @@
             </div>
             
             <div class="col text-center p-0">
-                <router-link class="text-decoration-none text-dark">
+                <router-link to="/" class="text-decoration-none text-dark">
                     <i class="fas fa-user"></i><br>
                     <span class="fs-21">Profile</span>
                 </router-link>
