@@ -8,7 +8,7 @@ const back = () => {
 }
 </script>
 <template>
-    <div class="container-fluid bg-white shadow-sm p-3 fixed-top">
+    <div class="container-fluid bg-white p-3 fixed-top">
         <div class="row">
             <div class="col-1 pt-1 text-center">
                 <button class="btn btn-sm btn-default border-0 px-1 py-1 fs-7" @click="back"><span class="fas fa-arrow-left fw-bold"></span></button>
